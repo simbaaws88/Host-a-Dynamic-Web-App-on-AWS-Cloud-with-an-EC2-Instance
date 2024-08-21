@@ -1,8 +1,8 @@
 S3_URI=s3://will-sql-files/V1__nest.sql
 RDS_ENDPOINT=dev-rds-db.cbe8iwssi99x.us-east-1.rds.amazonaws.com
 RDS_DB_NAME=applicationdb
-RDS_DB_USERNAME=will
-RDS_DB_PASSWORD=kobeisgoat24
+RDS_DB_USERNAME=********
+RDS_DB_PASSWORD=********
 
 # Update all packages
 sudo yum update -y
